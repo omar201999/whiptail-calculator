@@ -47,9 +47,10 @@ This repository contains a Bash script that implements a standard and programmer
 
 ## Demo
 
+https://github.com/omar201999/whiptail-calculator/assets/46471716/53ea7e77-9599-4a37-90bb-64192fdf7acc
 
 ## Contributions
-Contributions to this project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
+- Contributions to this project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
 ## Acknowledgments
 - The calculator script is created by Omar Essam, Laila Abdelkhalek, Mohamed Salah Fattouh, Ahmed Safwat, Mohamed Ahmed Mohamed. 
